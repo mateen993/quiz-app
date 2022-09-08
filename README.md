@@ -21,6 +21,8 @@ this achieved by useState
 Minimum score and maximum score are also shown below
 
 ![image](https://user-images.githubusercontent.com/105978906/189077993-0a0f5ada-8f7f-4e54-b4c5-ddc957dbfdfe.png)
+![image](https://user-images.githubusercontent.com/105978906/189080212-81a450e2-11cb-4c20-a853-b597874d322a.png)
+
 
 
 CSS file is globally used for styling the app located in the /coding/src/App.css
